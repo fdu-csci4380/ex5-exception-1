@@ -6,7 +6,7 @@ package fdu.ex.exception.users;
 import fdu.ex.exception.MyException;
 
 /**
- * @author John
+ * @author ilker
  *
  */
 public class MainEntry {
